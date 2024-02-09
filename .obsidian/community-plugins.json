@@ -1,3 +1,8 @@
 [
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "colored-text",
+  "calendar",
+  "heatmap-calendar",
+  "google-calendar",
+  "obsidian-excalidraw-plugin"
 ]
