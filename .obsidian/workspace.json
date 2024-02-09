@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-jounal/Daily/2024-02-09.md",
+                "file": "Training few shots medical image segmenatation without annotation.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "3c26129679c01095",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-jounal/Daily/2024-02-09.md",
+                "file": "Training few shots medical image segmenatation without annotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-jounal/Daily/2024-02-09.md",
+                "file": "Training few shots medical image segmenatation without annotation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-jounal/Daily/2024-02-09.md"
+                "file": "Training few shots medical image segmenatation without annotation.md"
               }
             }
           },
@@ -158,11 +166,14 @@
   },
   "active": "3dbd1f09c4924e76",
   "lastOpenFiles": [
+    "U-net.md",
     "Excalidraw/Drawing 2024-02-09 16.23.47.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-09 16.46.19.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-23 16.28.33.excalidraw.md",
+    "Training few shots medical image segmenatation without annotation.md",
+    "Research tools to be used.md",
     "01-jounal/Daily/2024-02-09.md",
     "Self-supervision with superpixels.canvas",
-    "Training few shots medical image segmenatation without annotation.md",
-    "U-net.md",
     "U-net.pdf",
     "U-net architecture.md",
     "Assests",
@@ -172,7 +183,6 @@
     "01-jounal/Untitled 1.md",
     "01-jounal/Untitled.md",
     "01-jounal",
-    "Research tools to be used.md",
     "Coding.md",
     "differernce between f and b pass.md",
     "Ml in simple terms.md",

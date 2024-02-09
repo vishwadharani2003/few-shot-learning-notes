@@ -40,3 +40,4 @@ another method for training the siamese network
 - **Query Image**: An MRI scan without an annotation, for which the segmentation mask needs to be predicted.
 - **Process**: The Siamese encoders process the query and each reference image to extract features. Through a comparison mechanism, the network identifies how features from the query image relate to those from the reference images. The decoder uses this information to predict the segmentation mask for the query image, effectively transferring knowledge from the reference images to the query context.
 
+I love avind
