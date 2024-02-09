@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "047d66ae863d12ed",
+        "id": "789e16f17eebfd7f",
         "type": "tabs",
         "children": [
           {
-            "id": "5391cc3973122b62",
+            "id": "22ac9fca036680f7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-23 16.28.33.excalidraw.md"
+                "file": "Training few shots medical image segmenatation without annotation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2023-12-23 16.28.33.excalidraw.md",
+            "file": "Training few shots medical image segmenatation without annotation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2023-12-23 16.28.33.excalidraw.md",
+            "file": "Training few shots medical image segmenatation without annotation.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2023-12-23 16.28.33.excalidraw.md"
+            "file": "Training few shots medical image segmenatation without annotation.md"
           }
         }
       },
@@ -123,9 +125,17 @@
           "type": "calendar",
           "state": {}
         }
+      },
+      {
+        "id": "dadee86190a9def7",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,10 +148,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5391cc3973122b62",
+  "active": "dadee86190a9def7",
   "lastOpenFiles": [
+    "Training few shots medical image segmenatation without annotation.md",
+    "U-net.md",
+    "Excalidraw/Drawing 2024-02-09 16.23.47.excalidraw.md",
     "Excalidraw/Drawing 2024-02-09 16.46.19.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-23 16.28.33.excalidraw.md",
-    "01-jounal/Daily/2024-02-09.md"
+    "01-jounal/Daily/2024-02-09.md",
+    "/Training few shots medical image segmenatation without annotation.md",
+    "/Excalidraw/Drawing 2024-02-09 16.23.47.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-23 16.28.33.excalidraw.md"
   ]
 }
